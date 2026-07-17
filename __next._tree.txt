@@ -1,5 +1,6 @@
-:HL["/DUSTstreaks-website/_next/static/chunks/00k5x6dsin8_w.css","style"]
+:HL["/DUSTstreaks-website/_next/static/chunks/0c2us_unlqct7.css","style"]
 :HL["/DUSTstreaks-website/images/hero-frame.png","image"]
+:HL["/DUSTstreaks-website/images/graphical-abstract.png","image"]
 :HL["/DUSTstreaks-website/images/pipeline.png","image"]
 :HL["/DUSTstreaks-website/images/properties.png","image"]
 :HL["/DUSTstreaks-website/images/temporal.png","image"]
@@ -7,4 +8,4 @@
 :HL["/DUSTstreaks-website/images/clusters.png","image"]
 :HL["/DUSTstreaks-website/images/pr-curves.png","image"]
 :HL["/DUSTstreaks-website/images/qualitative.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"eGY_GxOc_dS8_Juw6xg3_"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"6axKis2OGnrbDE2JuU8Ey"}
